@@ -6,7 +6,7 @@ export default function Header() {
 
   return (
     <header>
-      <div className="logo">Vector Store</div>
+      <div className="logo">Udbhav Pharmaceuticals</div>
       <nav>
         <Link to="/" className={isActive('/')}>Products</Link>
         <Link to="/cart" className={isActive('/cart')}>Cart</Link>

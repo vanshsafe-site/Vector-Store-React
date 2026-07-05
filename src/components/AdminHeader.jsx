@@ -15,8 +15,8 @@ export default function AdminHeader() {
   return (
     <header>
       <div className="logo">
-        <span className="desktop-logo">Vector Store Admin</span>
-        <span className="mobile-logo">VS Admin</span>
+        <span className="desktop-logo">Udbhav Pharmaceuticals Admin</span>
+        <span className="mobile-logo">UP Admin</span>
       </div>
       <nav>
         <Link to="/admin/dashboard" className={isActive('/admin/dashboard')}>Dashboard</Link>

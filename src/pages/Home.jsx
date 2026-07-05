@@ -31,8 +31,8 @@ export default function Home() {
     <>
       <Header />
       <section className="hero">
-        <h1>Wholesale Pharmacy Solutions</h1>
-        <p>Fast, reliable and affordable medical supplies.</p>
+        <h1>Udbhav Pharmaceuticals</h1>
+        <p>Firm of H.C.C. | Fast, reliable and affordable medical supplies.</p>
 
         <div className="search-card">
           <div className="search-field">
